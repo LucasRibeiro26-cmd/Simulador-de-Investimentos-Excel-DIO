@@ -155,7 +155,12 @@ Na parte de perfil, utilizamos a Validação de Dados para que o usuário possa 
 Já no percentual de cada tipo de FII, tive que usar uma outra tabela com uma chave única para cada perfil e cada tipo de FII, depois utilizei o PROCV para procurar o tipo de chave (perfil moderado e FII de papel por exemplo) e mostrar a porcentagem de acordo com cada perfil. 
 
  
+---
 
+
+### 🔗 Link / Versão Web
+
+**[📂 ACESSAR VERSÃO WEB](https://federalitajuba-my.sharepoint.com/:x:/g/personal/d2024004742_unifei_edu_br/IQAcxUFfGsHHRbHbB564M5S5AczH5PJNZd5Q6hYwGfDBVq0?e=ZU8A6Y)**
  
 
  
